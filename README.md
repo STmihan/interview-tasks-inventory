@@ -1,2 +1,2 @@
-# Tests
+# Interview tasks
 Тестовые задания
